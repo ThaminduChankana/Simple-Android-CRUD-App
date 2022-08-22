@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">2019MAD</string>
+    <string name="tv_home">Home</string>
+    <string name="et_username">Enter Username</string>
+    <string name="et_password">Enter Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="tv_profile_management">Profile Management</string>
+    <string name="et_dob">Date Of Birth</string>
+    <string name="rd_btn_male">Male</string>
+    <string name="rd_btn_female">Female</string>
+    <string name="tv_gender">Gender</string>
+    <string name="btn_profile_update">Update Profile</string>
+    <string name="tv_edit_profile">Edit Profile</string>
+    <string name="btn_edit_profile_edit">Edit</string>
+    <string name="btn_edit_profile_delete">Delete</string>
+    <string name="btn_edit_profile_search">Search</string>
+    <string name="btn_profile_add">Add</string>
+</resources>
